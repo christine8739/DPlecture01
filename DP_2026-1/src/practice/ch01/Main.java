@@ -1,6 +1,6 @@
-pacakge practice.ch01;
+package practice.ch01;
 
-puplic class Main{
+public class Main{
     public static void main(String[] args) {
         Book book = new Book("자바의 정석");
         System.out.println(book.getName());
